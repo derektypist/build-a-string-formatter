@@ -10,7 +10,7 @@ Uses JavaScript.
 
 Copy `script.js` to the text editor of your choice.  In the terminal, use the command `node script.js` to run the code.
 
-## Credits
+## Credits
 
 ### Acknowledgements
 
