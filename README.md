@@ -6,7 +6,7 @@ Work with various string methods used for formatting strings.
 
 Uses JavaScript.
 
-## Deployment
+## Deployment
 
 Copy `script.js` to the text editor of your choice.  In the terminal, use the command `node script.js` to run the code.
 
